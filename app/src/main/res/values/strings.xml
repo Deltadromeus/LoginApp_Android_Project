@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">Login App</string>
+
+
+  <string name="welcome">WELCOME TO SHARETASTIC</string>
+  <string name="name">Name</string>
+  <string name="username">Username</string>
+  <string name="connected_with">Connected with:</string>
+
+
+    <string name="facebook_app_id">378559329681169</string>
+    <string name="fb_login_protocol_scheme">fb378559329681169</string>
+
+  <string name="twitter_consumer_key">yh79ekxs2O8rT8Enet2dMwftC</string>
+  <string name="twitter_consumer_secret">D6ekf9J4BceAei5wzDdtLLGz9w2yJwU0UaquUJOZyVBDEsmdGw </string>
+</resources>
