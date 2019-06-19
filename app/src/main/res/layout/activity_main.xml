@@ -7,7 +7,7 @@
   android:gravity="center_horizontal"
   android:orientation="vertical"
   android:weightSum="1"
-  tools:context="com.raywenderlich.sharetastic.MainActivity">
+  tools:context="com.dromeus.delta.loginapp.MainActivity">
 
   <com.facebook.login.widget.LoginButton
     android:id="@+id/facebookLoginButton"
